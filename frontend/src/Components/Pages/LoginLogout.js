@@ -1,6 +1,6 @@
 /* Importing react, jwt_decode, authentication and navigation tools. */
+import '../Auth/Auth.css';
 import React, { useState } from 'react';
-import '../Auth/auth.css';
 import LoginFile from '../Auth/LoginFile';
 
 /* body function for the login functionality. */

@@ -1,5 +1,5 @@
 import "../../App.css";
-import "./pages.css";
+import "./Pages.css";
 
 function UserSettings() {
   return (

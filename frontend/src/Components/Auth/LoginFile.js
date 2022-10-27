@@ -1,8 +1,8 @@
 /* This file handles the formatting for the login system, as well as passing in the text to the other files. */
 
 /* These three imports handle the importations for react and the other content. */
+import './Auth.css';
 import React, {useState} from 'react';
-import './auth.css';
 import { Link } from "react-router-dom";
 
 /* This function resets the user details (password, username). */

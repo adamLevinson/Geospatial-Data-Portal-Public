@@ -1,5 +1,5 @@
 /* The below function controls the header bar. */
-import "./header.css";
+import "./Header.css";
 
 function Header() {
   // The "xxxxxxxx" is currently just some filler text.
